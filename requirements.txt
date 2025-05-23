@@ -1,0 +1,7 @@
+keyboard
+sounddevice
+numpy
+whisper
+torch
+scipy
+vosk
