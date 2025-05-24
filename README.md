@@ -28,8 +28,8 @@ A simple Python script to dictate notes throughout your day using a hotkey. It r
 
 ## Obsidian
 
---Point NOTES_DIR to where you want your notes to go after transcription
+- Point NOTES_DIR to where you want your notes to go after transcription
 
 ## Other
 
--- Change the hotkey utilized (or combination) at keyboard.add_hotkey()
+- Change the hotkey utilized (or combination) at keyboard.add_hotkey()
